@@ -40,24 +40,20 @@ gcc -Wall -std=c99 test_main.c assignmentX_file.c -o test_assignmentX
 ./test_assignmentX
 ```
 
-Key Concepts Learned
+## Key Concepts Learned
 
 Through these assignments and labs, I gained hands-on experience with:
 
-Writing modular and reusable C code
+- Writing modular and reusable C code
 
-Debugging and testing programs
+- Debugging and testing programs
 
-Using pointers and dynamic memory safely
+- Using pointers and dynamic memory safely
 
-Understanding basic algorithm design and analysis
+- Understanding basic algorithm design and analysis
 
-Reading and manipulating data from files
+- Reading and manipulating data from files
 
-Notes
+## Notes
 
-All code is my own work, except where otherwise noted.
-
-Private information (student numbers, instructor files) has been removed.
-
-Files provided by the instructor for testing or as skeletons have not been included.
+All code is my own work, except where otherwise noted. Private information (student numbers, instructor files) has been removed. Files provided by the instructor for testing or as skeletons have not been included.
