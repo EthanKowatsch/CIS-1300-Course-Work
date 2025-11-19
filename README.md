@@ -38,6 +38,7 @@ To explore the work:
 ```bash
 gcc -Wall -std=c99 test_main.c assignmentX_file.c -o test_assignmentX
 ./test_assignmentX
+```
 
 Key Concepts Learned
 
