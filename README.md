@@ -27,15 +27,20 @@ Each assignment or lab folder contains:
 
 ## How to Use
 
-To explore the work:
-
 1. Navigate to the `assignments` or `labs` folder.
 2. Open an individual project/lab folder.
-3. Compile the test file with your C compiler. For example:
+3. Compile the test file with your C compiler.
+
+Example for Assigments:
 
 ```bash
 gcc -Wall -std=c99 test_main.c assignmentX_file.c -o test_assignmentX
 ./test_assignmentX
+```
+Example for Labs:
+```bash
+gcc -Wall -std=c99 main.c lab#.c -o test_lab#
+./test_lab#
 ```
 
 ## Key Concepts Learned
