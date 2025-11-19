@@ -25,6 +25,25 @@ Each assignment or lab folder contains:
 
 ---
 
+## Assignments
+
+- [Assignment 1 – Hello World](assignments/a1_hello_world)
+- [Assignment 2 – AI Assistant](assignments/a2_ai_assistant)
+- [Assignment 3 – Spacecraft Simulation](assignments/a3_spacecraft_simulation)
+- [Assignment 4 – DNA Analysis](assignments/a4_dna_analysis)
+- [Assignment 5 – Animal DNA Database](assignments/a5_animal_dna_db)
+
+## Labs
+
+- [Lab 1 – Intro to Programming](labs/lab1_intro_to_programming)
+- [Lab 2 – Basics of C](labs/lab2_basics_of_c)
+- [Lab 3 – Loops & Branching](labs/lab3_loops_branching)
+- [Lab 4 – Modular Programming](labs/lab4_modular_programming)
+- [Lab 5 – Pointers & Arrays Practice](labs/lab5_pointers_arrays_practice)
+- [Lab 6 – Strings & Structs Practice](labs/lab6_strings_structs_practice)
+
+---
+
 ## How to Use
 
 1. Navigate to the `assignments` or `labs` folder.
