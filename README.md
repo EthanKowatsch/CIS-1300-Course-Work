@@ -7,7 +7,7 @@ This repository contains my completed assignments and lab exercises for **CIS*13
 - Arrays, pointers, and memory management
 - File I/O
 - Strings and character manipulation
-- Problem-solving through algorithm development
+- Dynamic memory managmenet concepts
 
 ## Repository Structure
 
