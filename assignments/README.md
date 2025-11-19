@@ -20,7 +20,7 @@ This folder contains all five course assignments for **CIS*1300: Introduction to
   *Modular programming, functions, pointers, and simulation logic*
 
 - [Assignment 4 – DNA Analysis](a4_dna_analysis)  
-  *String manipulation, arrays, GC content calculations, motifs, and palindrome/anagram checks*
+  *String manipulation, arrays, functions, modular programming*
 
 - [Assignment 5 – Animal DNA Database](a5_animal_dna_db)  
   *Dynamic memory, structs, file I/O, database operations (add/delete records, analytics)*
