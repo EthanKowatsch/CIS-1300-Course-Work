@@ -11,18 +11,16 @@ This repository contains my completed assignments and lab exercises for **CIS*13
 
 ## Repository Structure
 
-The repository is organized into two main folders:
-
-CIS1300-Intro-to-Programming/
-├── assignments/ # All 5 course assignments
-├── labs/ # All 6 lab exercises
-└── README.md # This file
+The repository is organized into two main folders with CIS1300-Intro-to-Programming as the parent folder:
+- assignments/ # All 5 course assignments
+- labs/ # All 6 lab exercises
+- README.md # This file
 
 
 Each assignment or lab folder contains:
 
 - **Source code (`.c` and `.h` files)** – cleaned and ready to compile
-- **Test files (`test_main.c`)** – simple programs demonstrating how to use your functions
+- **Test files (`test_main.c`)** – simple programs demonstrating how to use the functions
 - **README.md** – a description of the assignment/lab, challenges, and learning outcomes
 
 ---
