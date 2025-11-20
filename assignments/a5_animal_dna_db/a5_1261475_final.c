@@ -80,12 +80,7 @@ struct DNARecord *load_database(const char *filename, int *record_count) {
 
     // Loop through database creating an array index in the database for each animal
     int valid_records = 0;
-    for(int i = 0; i < *record_count; i++) {
-        // Check if at the end of the CSV file
-        if(fgets(line, sizeof(line), fp) == NULL) {
-            break;
-        }
-
+    while(fgets(line, sizeof(line), fp) != NULL) {
         // Get each value from the CSV file by tokenizing the elements with a comma as a delimiter
         char *id_token = strtok(line, ",");
         char *classification_token = strtok(NULL, ",");
