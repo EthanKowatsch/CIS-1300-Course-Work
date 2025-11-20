@@ -80,6 +80,7 @@ struct DNARecord *load_database(const char *filename, int *record_count) {
 
     // Loop through database creating an array index in the database for each animal
     int valid_records = 0;
+
     while(fgets(line, sizeof(line), fp) != NULL) {
         // Get each value from the CSV file by tokenizing the elements with a comma as a delimiter
         char *id_token = strtok(line, ",");
@@ -120,8 +121,11 @@ struct DNARecord *load_database(const char *filename, int *record_count) {
             // Free previously allocated sequences
             for(int j = 0; j < valid_records; j++) {
                 free(database[j].sequence);
+                database[j].sequence = NULL;
             }
             
+            *record_count = 0;
+
             free(database);
             fclose(fp);
             return NULL;
@@ -310,6 +314,7 @@ int add_record(struct DNARecord **db_ptr, int *record_count, const char *id, con
     }
     else {
         printf("Error allocating memory for the sequence.\n");
+        *record_count -= 1;
         return 0;
     }
 
@@ -362,6 +367,7 @@ int delete_record(struct DNARecord **db_ptr, int *record_count, const char *id_t
 
     // Free the sequence memory from the record
     free((*db_ptr)[index_to_delete].sequence);
+    (*db_ptr)[index_to_delete].sequence = NULL;
     
     // Shift all remaining records left to fill the deleted records position
     for (int i = index_to_delete; i < *record_count - 1; i++) {
