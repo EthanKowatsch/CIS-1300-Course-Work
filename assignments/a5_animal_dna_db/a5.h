@@ -5,19 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
- * struct DNARecord: 
- * Holds the data for a single DNA record.
- *
- * Field 1: id
- * A fixed-size string for the record ID (e.g., "ID001").
- *
- * Field 2: classification
- * A fixed-size string for the classification (e.g., "Mammal").
- *
- * Field 3: sequence
- * A pointer to a dynamically allocated string holding the DNA sequence.
- */
 struct DNARecord{
     char id[10];
     char classification[50];
