@@ -3,9 +3,7 @@
 ## Overview
 This lab built on Lab 4’s modular programming concepts by introducing arrays and deepening understanding of pointers. Students wrote a statistics module to process collections of data, calculate metrics, and modify an array in-place.  
 
-## Learning Objectives
-Upon completion of this lab, you should be able to:
-
+## Learned Concepts
 - Declare, initialize, and populate C arrays.
 - Pass arrays to functions for processing (passing by reference).
 - Understand and demonstrate the relationship between arrays and pointers.
