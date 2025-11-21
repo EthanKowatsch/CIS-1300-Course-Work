@@ -13,7 +13,7 @@ Upon completion of this lab, you should be able to:
 - Use the `pow()` function from `<math.h>` for calculations.
 - Structure and compile complete C programs.
 
-## Key Tasks Implemented
+## Tasks Implemented
 
 ### Calculating an Average (`average.c`)
 - Declared three integer scores.
