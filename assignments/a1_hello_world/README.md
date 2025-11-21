@@ -11,6 +11,10 @@ This assignment introduced the basics of working in the SoCS Linux environment a
 - Input/Output
 - Basic error handling
 
+## Files
+- [Initial C Program](a1_initial.c)
+- [Final C Program](a1_final.c)
+
 ## How to Compile
 Use the following command to compile the initial program:
 
