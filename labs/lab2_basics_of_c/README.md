@@ -3,8 +3,7 @@
 ## Overview
 This lab reinforced working with C variables, operators, and expressions. It provided practice with arithmetic, floating-point division, swapping variables, time conversion, and using the math library for calculations such as compound interest.  
 
-## Learning Objectives
-Upon completion of this lab, you should be able to:
+## Learned Concepts
 
 - Follow the edit-compile-run cycle for multiple programs.
 - Declare, initialize, and use variables of types `int`, `float`, and `double`.
