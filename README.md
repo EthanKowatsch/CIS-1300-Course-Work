@@ -50,8 +50,7 @@ Each assignment or lab folder contains:
 2. Open an individual project/lab folder.
 3. Compile the test file with your C compiler.
 
-Example for Assigments:
-
+Example for Assignments:
 ```bash
 gcc -Wall -std=c99 test_main.c assignmentX_file.c -o test_assignmentX
 ./test_assignmentX
@@ -64,7 +63,7 @@ gcc -Wall -std=c99 main.c lab#.c -o test_lab#
 
 ## Key Concepts Learned
 
-Through these assignments and labs, I gained hands-on experience with:
+Through these assignments and labs, I gained a deeper understanding of:
 
 - Writing modular and reusable C code
 
@@ -78,4 +77,4 @@ Through these assignments and labs, I gained hands-on experience with:
 
 ## Notes
 
-All code is my own work, except where otherwise noted. Private information (student numbers, instructor files) has been removed. Files provided by the instructor for testing or as skeletons have not been included.
+All code is my own work. Private information (student numbers, instructor files) has been removed. Files provided by the instructor for testing or as skeletons have not been included.
