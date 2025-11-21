@@ -16,11 +16,15 @@ Use the following command to compile the initial program:
 
 ```bash
 gcc -Wall -std=c99 a1_initial.c -o initial
+```
+```bash
 ./initial
 ```
 Use the following command to compile the final program:
 
 ```bash
 gcc -Wall -std=c99 a1_final.c -o final
+```
+```bash
 ./final
 ```
