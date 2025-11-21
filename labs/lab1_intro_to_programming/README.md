@@ -3,8 +3,7 @@
 ## Overview
 This lab introduced fundamental C programming concepts and the Linux workflow. It provided practice with compiling and running small programs, creating variables, performing arithmetic operations, and printing data types. This lab also prepared students for Assignment 1.
 
-## Learning Objectives
-Upon completion of this lab, you should be able to:
+## Learned Concepts
 
 - Connect to the SoCS Linux environment and use command-line tools.
 - Organize coursework using a directory structure.
