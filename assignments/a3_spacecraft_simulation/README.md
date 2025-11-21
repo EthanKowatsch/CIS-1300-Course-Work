@@ -33,6 +33,7 @@ gcc -Wall -std=c99 a3_initial.c test_main.c -o initial
 ```bash
 ./initial
 ```
+Use the following command to compile the final program:
 ```bash
 gcc -Wall -std=c99 a3_final.c test_main.c -o final
 ```
