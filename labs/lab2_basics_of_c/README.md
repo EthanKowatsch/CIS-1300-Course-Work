@@ -13,6 +13,27 @@ Upon completion of this lab, you should be able to:
 - Use the `pow()` function from `<math.h>` for calculations.
 - Structure and compile complete C programs.
 
+## Key Tasks Implemented
+
+### Calculating an Average (`average.c`)
+- Declared three integer scores.
+- Calculated the total and the floating-point average.
+- Printed total and average with precise formatting.
+
+### Swapping Variable Values (`swap.c`)
+- Declared two integer variables.
+- Swapped their values using a temporary variable.
+- Printed before and after swap.
+
+### Time Conversion (`time_converter.c`)
+- Converted total seconds (5000) into hours, minutes, and seconds.
+- Printed in `H:M:S` format using division and modulo operators.
+
+### Compound Interest Calculator (`interest.c`)
+- Calculated compound interest using the formula `A = P(1 + r/n)^(nt)`.
+- Used `pow()` from `<math.h>`.
+- Printed the future value formatted to two decimal places.
+
 ## Files
 - [average.c](average.c)
 - [swap.c](swap.c)
