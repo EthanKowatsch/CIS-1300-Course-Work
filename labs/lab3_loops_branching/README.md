@@ -28,7 +28,7 @@ Upon completion of this lab, you should be able to:
 - Repeated the menu loop until the user chose to exit.
 
 ## Files
-- [gpa_calculator.c](gpa_calculator.c)
+- [gpa_calculator.c](grade_calculator.c)
 - [vending_machine.c](vending_machine.c)
 
 ## How to Compile
