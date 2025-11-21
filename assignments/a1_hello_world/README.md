@@ -15,5 +15,12 @@ This assignment introduced the basics of working in the SoCS Linux environment a
 Use the following command to compile the initial program:
 
 ```bash
-gcc -Wall -std=c99  -o a1 main.c
+gcc -Wall -std=c99 a1_initial.c -o initial
+./initial
+```
+Use the following command to compile the final program:
+
+```bash
+gcc -Wall -std=c99 a1_final.c -o final
+./final
 ```
