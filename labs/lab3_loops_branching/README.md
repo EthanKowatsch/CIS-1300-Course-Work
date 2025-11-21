@@ -3,8 +3,7 @@
 ## Overview
 This lab focused on using loops and conditional statements in C to build interactive programs. Students practiced handling user input, performing repeated calculations, and making decisions using `if-else` and `switch` statements within loops.  
 
-## Learning Objectives
-Upon completion of this lab, you should be able to:
+## Learned Concepts
 
 - Build interactive programs that loop based on user confirmation.
 - Use `scanf()`, `fgets()`, `getchar()`, and `sscanf()` to parse different input types (strings, integers, floats, characters, doubles, and formatted dates).
