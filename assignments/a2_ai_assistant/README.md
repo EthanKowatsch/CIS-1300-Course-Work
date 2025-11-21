@@ -1,4 +1,4 @@
-# Assignment 2 — AI Assistant: Gryphon.AI
+# Assignment 2 — AI Assistant
 
 ## Overview
 This assignment builds on basic C programming concepts to create a simple command-line AI assistant called **Gryphon.AI**. The focus is on managing internal state, processing user commands, implementing input validation, and using conditionals and switch statements effectively. Peer programming and AI-assisted code review are also incorporated to encourage good coding practices and critical thinking.
