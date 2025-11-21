@@ -22,6 +22,7 @@ The program simulates a full mission, from launch to navigating asteroid hazards
 - [Initial C Program](a3_initial.c)
 - [Test Main File](test_main.c)
 - [Final C Program](a3_final.c)
+- [Header File](a3.h)
 
 ## How to Compile
 Use the following command to compile the initial program:
