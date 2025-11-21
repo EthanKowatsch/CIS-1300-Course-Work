@@ -3,7 +3,7 @@
 ## Overview
 This assignment introduced the basics of working in the SoCS Linux environment and building simple C programs using the standard edit–compile–run workflow. It also provided early experience using AI tools as code reviewers in a responsible and critical way.
 
-## Topics List
+## Topics Learned
 - Variables
 - Conditionals
 - Loops
