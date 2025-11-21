@@ -3,9 +3,7 @@
 ## Overview
 This lab focused on designing and implementing a modular, multi-file C program. Students learned how to separate code into `.h` and `.c` files, use pointers to pass data by reference, and orchestrate program flow through a menu-driven interface.  
 
-## Learning Objectives
-Upon completion of this lab, you should be able to:
-
+## Learned Concepts
 - Separate a program into multiple files (`.h` and `.c`) and compile them together.
 - Design and write a set of cooperating functions to solve a larger problem.
 - Use function prototypes to define a module's public interface.
