@@ -425,8 +425,4 @@ void free_database(struct DNARecord *database, int record_count) {
 
     // Free the memory of the database
     free(database);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ff14438994ffc9f6c04ff9972a6be50f0442ec5e
